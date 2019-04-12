@@ -1,0 +1,20 @@
+{
+  "SecondField": "hello",
+  "FirstField": 123,
+  "WireResist": 4.000000476837158,
+  "Signal1030": 5,
+  "Signal1090": 9,
+  "longitude": 0,
+  "latitude": 0,
+  "AntennaReady": 1,
+  "AntennaReadyComment": "if AntennaReady is not 0 or 1, display 'antenna not ready' error message",
+  "handheld": true,
+  "obj1": {
+    "obj2": {
+      "scale3": 1
+      "scale2": 2
+    },
+    "obj3": "obj3 string value"
+  },
+  "handheldComment": "true or false"
+}
